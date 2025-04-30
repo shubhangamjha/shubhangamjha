@@ -26,6 +26,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangamjha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=Languages%20Worked%20Upon" height="150" alt="languages graph"  />
 </div>
 
+### Wakatime statistics
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/5ae1b894-1720-4dee-86d0-22a3f9ec3ee7.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/30db5f75-d234-4563-8d4c-2ecad7287cbb.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/44e3e2fe-bd32-495f-83a1-6cb955f78f50.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/a2688ca1-5a52-46a4-ae59-810a469382bc.png" /></a>
+
 ###
 
 <div align="left" background-color="White">

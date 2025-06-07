@@ -26,6 +26,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangamjha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=Languages%20Worked%20Upon" height="150" alt="languages graph"  />
 </div>
 
+### 📛 My Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/e4979d7d-97c1-4f58-8b93-8c005928c7c0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0c1783df-77b4-4cb1-bf5c-cfeab7471f4b/image.png" width="150" height="150" alt="Credly Badge"/>
+  </a>
+</div>
+
 ### Wakatime statistics
 <div align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/5ae1b894-1720-4dee-86d0-22a3f9ec3ee7.png" /></a>

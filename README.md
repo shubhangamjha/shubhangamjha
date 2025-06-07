@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangamjha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=Languages%20Worked%20Upon" height="150" alt="languages graph"  />
 </div>
 
-### 📛 My Certifications
+### AWS Badges
 
 <div align="center"> 
   <a href="https://www.credly.com/badges/e4979d7d-97c1-4f58-8b93-8c005928c7c0/public_url" target="_blank"> 
@@ -42,6 +42,114 @@
     <img src="aws-educate-machine-learning-foundations.png" width="114" height="114" alt="AWS Educate Machine Learning Foundations"/> 
   </a> 
 </div>
+
+## Kaggle badges
+<div>
+  <button aria-haspopup="true" aria-label="1 Year on Kaggle Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/49" target="_blank">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="2 Years on Kaggle Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/50">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F17276c55ce13e85b658e1f49c608eba6%2FBadge-47.svg?generation=1727468428193735&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Competitor Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/5">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fb05e17f63f2eead904a1f04d05bb51a6%2FBadge.svg?generation=1727458564383731&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Getting Started Competitor Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/6">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Research Competitor Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/7">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F33a465e5bfb87721b4d97d899c717eb4%2FBadge-3.svg?generation=1727462497490072&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Code Submitter Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/13">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F08aa345b8928ae96e21ee3586021500e%2FBadge-8.svg?generation=1727462754402917&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Python Coder Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/30">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Code Uploader Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/33">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Github Coder Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/35">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff219fc42b716ca24a2476517fe951295%2FBadge-32.svg?generation=1727468159669543&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>  
+  <button aria-haspopup="true" aria-label="Colab Coder Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/36">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F42167cf9c1c0a74d4e1c7503c010c82d%2FBadge-31.svg?generation=1727468175250681&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Code Tagger Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/37">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F453e2017576218001d5bbff451800de8%2FBadge-36.svg?generation=1727468194325199&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Code Forker Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/38"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Notebook Modeler Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/39"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F2df508502fba7fc8937f3847e46b8ec4%2FBadge-29.svg?generation=1727468233931525&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Dataset Creator Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/17">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Dataset Tagger Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/22">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F5d31f6794c65cc3ed7e29768cd541a53%2FBadge-17.svg?generation=1727463142252997&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Model Creator Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/23">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9ca07715376e5949f99c842605c3ee60%2FBadge-18.svg?generation=1727467872971674&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Model Variation Creator Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/24">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F86ae071ef80050dc0dea1ea2b9ee814c%2FBadge-21.svg?generation=1727467930982303&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Stylish Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/41">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F67d3960ab66dd17a3b6b1546ca8c3acb%2FBadge-40.svg?generation=1727468269875327&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Vampire Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/44">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="Learner Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/46">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+  <button aria-haspopup="true" aria-label="7 Day Login Streak Badge" class="sc-dycBwf iwTtrg">
+    <a href="https://www.kaggle.com/certification/badges/shubhangamjha/56">
+      <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F6e139e7278fc9c33210e39baf918967f%2FBadge-53.svg?generation=1727468684057299&amp;alt=media" alt="" class="sc-kbjiJX fcweqw">
+    </a>
+  </button>
+</div>
+
 
 ### Wakatime statistics
 <div align="center">

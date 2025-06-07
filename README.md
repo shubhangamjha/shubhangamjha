@@ -28,10 +28,19 @@
 
 ### 📛 My Certifications
 
-<div align="center">
-  <a href="https://www.credly.com/badges/e4979d7d-97c1-4f58-8b93-8c005928c7c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0c1783df-77b4-4cb1-bf5c-cfeab7471f4b/image.png" width="150" height="150" alt="Credly Badge"/>
-  </a>
+<div align="center"> 
+  <a href="https://www.credly.com/badges/e4979d7d-97c1-4f58-8b93-8c005928c7c0/public_url" target="_blank"> 
+    <img src="	https://images.credly.com/size/680x680/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="150" height="150" alt="Badge 1"/> 
+  </a> 
+  <a href="https://www.credly.com/badges/55c60ab1-6f94-4640-8637-831a4dae2c43/public_url" target="_blank"> 
+    <img src="https://images.credly.com/size/340x340/images/e5aa6b59-cc9d-4c39-a8ac-4e3116e8ef7b/image.png" width="150" height="150" alt="Badge 2"/> 
+  </a> 
+  <a href="https://www.credly.com/badges/876b31d7-01f0-4add-b2c6-e56dd5e93557/public_url" target="_blank"> 
+    <img src="https://images.credly.com/size/340x340/images/8e734ffd-9c1d-4a2b-b489-03e755f617b9/image.png" width="150" height="150" alt="Badge 3"/> 
+  </a> 
+  <a href="https://www.credly.com/badges/3ed24a2b-a0e8-45a9-a8b3-6b1b54eb2890/public_url" target="_blank"> 
+    <img src="https://images.credly.com/size/340x340/images/1ebbd5d9-fd2f-4b8d-8e5f-4c6b195f397a/image.png" width="150" height="150" alt="Badge 4"/> 
+  </a> 
 </div>
 
 ### Wakatime statistics
@@ -113,7 +122,7 @@
 <div align="left">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://linkedin.com/in/shubhangam-jha-a32535210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangam-jha-a32535210" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shubhangamjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangamjha" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/19862011/shubhangam-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/19862011/shubhangam-jha" height="30" width="40" /></a>
   <a href="https://kaggle.com/shubhangamjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhangamjha" height="30" width="40" /></a>
   <a href="https://instagram.com/brahman_squad.yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahman_squad.yt" height="30" width="40" /></a>

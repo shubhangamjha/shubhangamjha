@@ -153,10 +153,14 @@
 
 ### Wakatime statistics
 <div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/5ae1b894-1720-4dee-86d0-22a3f9ec3ee7.png" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/30db5f75-d234-4563-8d4c-2ecad7287cbb.png" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/44e3e2fe-bd32-495f-83a1-6cb955f78f50.png" /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/a2688ca1-5a52-46a4-ae59-810a469382bc.png" /></a>
+  <div>
+    <a href="https://wakatime.com">
+      <img src="https://wakatime.com/share/@Brahman/5ae1b894-1720-4dee-86d0-22a3f9ec3ee7.png" />
+    </a>
+  </div>
+  <div aligh="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/30db5f75-d234-4563-8d4c-2ecad7287cbb.png" width="600" height="400" /></a></div>
+  <div><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/44e3e2fe-bd32-495f-83a1-6cb955f78f50.png" width="400" height="300" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brahman/a2688ca1-5a52-46a4-ae59-810a469382bc.png" width="400" height="300" /></a></div>
 
 ###
 
